@@ -16,6 +16,7 @@ Collaborative Filtering - Surprise (KNNwithMeans)
 ![alt text](https://github.com/swarnas89/LAProject1/blob/master/rec3.png)
 ![alt text](https://github.com/swarnas89/LAProject1/blob/master/rec4.png)
 ![alt text](https://github.com/swarnas89/LAProject1/blob/master/rec5.png)
+![alt text](https://github.com/swarnas89/LAProject1/blob/master/rec51.png)
 ![alt text](https://github.com/swarnas89/LAProject1/blob/master/rec6.png)
 ![alt text](https://github.com/swarnas89/LAProject1/blob/master/rec7.png)
 ![alt text](https://github.com/swarnas89/LAProject1/blob/master/rec8.png)
@@ -31,6 +32,10 @@ Collaborative Filtering - Surprise (KNNwithMeans)
 ![alt text](https://github.com/swarnas89/LAProject1/blob/master/rec18.png)
 ![alt text](https://github.com/swarnas89/LAProject1/blob/master/rec19.png)
 ![alt text](https://github.com/swarnas89/LAProject1/blob/master/rec20.png)
+![alt text](https://github.com/swarnas89/LAProject1/blob/master/rec21.png)
+![alt text](https://github.com/swarnas89/LAProject1/blob/master/rec22.png)
+![alt text](https://github.com/swarnas89/LAProject1/blob/master/rec23.png)
+![alt text](https://github.com/swarnas89/LAProject1/blob/master/rec24.png)
 ## Running and Deploying the Solution
 Use Jupyter Notebook and click Run all,then the application is deployed automatically. Instead,if we need to deploy on a different server,enter the port number and server to be deployed as parameters for the method indicated below:
 if __name__ == '__main__':
