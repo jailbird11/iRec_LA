@@ -2,7 +2,9 @@
 Mining Association rules in student curriculum and Recommending courses to the students based on their interests.
 
 ## Project Architecture
+
 ![alt text](https://github.com/swarnas89/LAProject1/blob/master/Architecture.png)
+
 ## Libraries or Algorithms Used
 For Identifying the frequently taken Courses, Association Rule Mining is used and for recommending courses to the Students,Collaborative Filtering is used.Following are the libraries used:
 Visualization and Frontend- Dash Plotly and Dash Bootstrap
