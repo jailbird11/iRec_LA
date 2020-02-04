@@ -1,5 +1,6 @@
 # i-Recommend
 ![alt text](https://i.ibb.co/7XsJW7F/Screenshot-2020-01-22-at-22-58-29.png)
+</br>
 Mining Association rules in student curriculum and Recommending courses to the students based on their interests.An intuitive explainable recommendation based on the visualizations too.
 
 ## Project Architecture
