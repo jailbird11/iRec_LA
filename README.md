@@ -40,3 +40,4 @@ Collaborative Filtering - Surprise (KNNwithMeans)
 Use Jupyter Notebook and click Run all,then the application is deployed automatically. Instead,if we need to deploy on a different server,enter the port number and server to be deployed as parameters for the method indicated below:
 if __name__ == '__main__':
     app.run_server(debug=True) -->here
+![alt text](https://github.com/swarnas89/LAProject1/blob/master/deployment.png)
