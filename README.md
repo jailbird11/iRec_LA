@@ -7,7 +7,9 @@ Mining Association rules in student curriculum and Recommending courses to the s
 
 ## Libraries or Algorithms Used
 For Identifying the frequently taken Courses, Association Rule Mining is used and for recommending courses to the Students,Collaborative Filtering is used.Following are the libraries used:
+</br>
 Visualization and Frontend- Dash Plotly and Dash Bootstrap
+</br>
 Association Rule Mining - mlXtend
 Collaborative Filtering - Surprise (KNNwithMeans)
 ## Screenshots
