@@ -1,17 +1,16 @@
 # i-Recommend
-<p>Mining Association rules in student curriculum and Recommending courses to the students based on their interests.An intuitive explainable recommendation based on the visualizations too.</p>
+Mining Association rules in student curriculum and Recommending courses to the students based on their interests.An intuitive explainable recommendation based on the visualizations too.
 
 ## Project Architecture
 
 ![alt text](https://github.com/swarnas89/LAProject1/blob/master/Architecture.png)
 
 ## Libraries or Algorithms Used
-<p>For Identifying the frequently taken Courses, Association Rule Mining is used and for recommending courses to the Students,Collaborative Filtering is used.Following are the libraries used:</p>
+For Identifying the frequently taken Courses, Association Rule Mining is used and for recommending courses to the Students,Collaborative Filtering is used.Following are the libraries used:
 </br>
 Visualization and Frontend- Dash Plotly and Dash Bootstrap
 </br>
 Association Rule Mining - mlXtend
-</br>
 Collaborative Filtering - Surprise (KNNwithMeans)
 ## Screenshots
 ![alt text](https://github.com/swarnas89/LAProject1/blob/master/rec1.png)
@@ -39,10 +38,8 @@ Collaborative Filtering - Surprise (KNNwithMeans)
 ![alt text](https://github.com/swarnas89/LAProject1/blob/master/rec22.png)
 ![alt text](https://github.com/swarnas89/LAProject1/blob/master/rec23.png)
 ![alt text](https://github.com/swarnas89/LAProject1/blob/master/rec24.png)
-</br>
 ## Running and Deploying the Solution
 Use Jupyter Notebook and click Run all,then the application is executed and deployed on localhost. Instead,if we need to deploy on a different server,enter the port number and server to be deployed as parameters for the method indicated below:
-</br>
 if __name__ == '__main__':
     app.run_server(debug=True) -->here
 ![alt text](https://github.com/swarnas89/LAProject1/blob/master/deployment.png)
