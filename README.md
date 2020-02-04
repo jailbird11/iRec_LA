@@ -7,6 +7,9 @@ For Identifying the frequently taken Courses, Association Rule Mining is used an
 Visualization and Frontend- Dash Plotly and Dash Bootstrap
 Association Rule Mining - mlXtend
 Collaborative Filtering - Surprise (KNNwithMeans)
+## Screenshots
+![alt text](https://github.com/swarnas89/LAProject1/blob/master/rec1.png)
+![alt text](https://github.com/swarnas89/LAProject1/blob/master/rec2.png)
 ## Running and Deploying the Solution
 Use Jupyter Notebook and click Run all,then the application is deployed automatically. Instead,if we need to deploy on a different server,enter the port number and server to be deployed as parameters for the method indicated below:
 if __name__ == '__main__':
